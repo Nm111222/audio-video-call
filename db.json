@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "nFz8nMXX",
+      "name": "Nilesh Mishra",
+      "email": "nilesh@gmail.com",
+      "passwordHash": "$2b$10$UIU2v3/wdjiLAYmk7SKSr.mccjZBfgo.fTGVcuil3SBVeKGS3GcUG",
+      "createdAt": "2025-08-28T10:35:14.039Z",
+      "online": true,
+      "lastSeen": "2025-08-28T10:39:14.305Z"
+    },
+    {
+      "id": "6dwELzef",
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "passwordHash": "$2b$10$ixnfgGZ5TtvlS56ryjcEC.FheeY..ozzj8DFtjKLjfPynv8.vASw.",
+      "createdAt": "2025-08-28T10:36:07.488Z",
+      "online": true,
+      "lastSeen": "2025-08-28T10:46:42.580Z"
+    },
+    {
+      "id": "cNwy7-wh",
+      "name": "Avinash",
+      "email": "avinash@gmal.com",
+      "passwordHash": "$2b$10$CnBuCat4eVD5e4IjonjAu.R3Tuk1iSmLUSjcCxWvt/DmPfheGfu3a",
+      "createdAt": "2025-08-28T10:40:15.801Z",
+      "online": false,
+      "lastSeen": "2025-08-28T10:46:49.569Z"
+    }
+  ],
+  "rooms": [
+    {
+      "code": "SPKYFP",
+      "owner": "6dwELzef",
+      "createdAt": "2025-08-28T10:37:45.261Z"
+    },
+    {
+      "code": "PU7MOM",
+      "owner": "6dwELzef",
+      "createdAt": "2025-08-28T10:38:51.956Z"
+    },
+    {
+      "code": "WGVVNY",
+      "owner": "cNwy7-wh",
+      "createdAt": "2025-08-28T10:40:36.480Z"
+    },
+    {
+      "code": "9U5QNZ",
+      "owner": "6dwELzef",
+      "createdAt": "2025-08-28T10:45:10.137Z"
+    },
+    {
+      "code": "UOLWEZ",
+      "owner": "cNwy7-wh",
+      "createdAt": "2025-08-28T10:46:21.092Z"
+    }
+  ]
+}
